@@ -1,5 +1,5 @@
 
-
+import './print.css'
 function Print() {
     let name  = 20;
   return (
